@@ -44,6 +44,7 @@
 		AC274D382B4984E900353B24 /* PracticeSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC274D3C2B4984E900353B24 /* PracticeSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeSwiftUITests.swift; sourceTree = "<group>"; };
 		AC274D3E2B4984E900353B24 /* PracticeSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AC274D4B2B4AE7AF00353B24 /* Core */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Core; path = ../../Core; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		AC274D202B4984E500353B24 /* PracticeSwift */ = {
 			isa = PBXGroup;
 			children = (
+				AC274D4B2B4AE7AF00353B24 /* Core */,
 				AC274D212B4984E500353B24 /* PracticeSwiftApp.swift */,
 				AC274D232B4984E500353B24 /* ContentView.swift */,
 				AC274D252B4984E800353B24 /* Assets.xcassets */,
